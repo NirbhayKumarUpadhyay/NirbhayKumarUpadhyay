@@ -12,4 +12,4 @@
 - 👨‍💻 All of my projects are available at
   [https://codebasics.io/portfolio/](https://codebasics.io/portfolio/)
 
-- 📫 How to reach me **upadhyaynirbhay1@gmail.com**
+- 📫 You can reach me at **upadhyaynirbhay1@gmail.com**
