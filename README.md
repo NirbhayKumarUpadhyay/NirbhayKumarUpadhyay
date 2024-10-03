@@ -7,9 +7,6 @@
 
 - 👨‍💻 Currently building more Data projects
 
-- 👨‍💻 SKILLS: **Power BI, SQL, EXCEL**
-
-- 👨‍💻 All of my projects are available at
-  [https://codebasics.io/portfolio/](https://codebasics.io/portfolio/)
+- 👨‍💻 SKILLS: **Power BI, SQL, EXCEL, Statistical Analysis**
 
 - 📫 You can reach me at **upadhyaynirbhay1@gmail.com**
