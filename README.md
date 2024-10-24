@@ -11,4 +11,4 @@
 
 - 📫 You can reach me at **upadhyaynirbhay1@gmail.com**
 
-- - 📫 Have a look at my Projects at **[Project Portfolio](https://codebasics.io/portfolio/Nirbhay-Kumar-Upadhyay)**
+- 📫 Have a look at my all Projects at **[Project Portfolio Website](https://codebasics.io/portfolio/Nirbhay-Kumar-Upadhyay)**
